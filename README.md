@@ -5,3 +5,7 @@ It is used to discover xss vulnerability in target website, you should modify th
 Usage:
 
 python vuln.py
+
+To extract forms in target url
+
+python extract_forms.py
